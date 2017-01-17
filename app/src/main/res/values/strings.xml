@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pruebaSharedPreferences</string>
+    <string name="puntuacion">Puntuación:</string>
+</resources>
